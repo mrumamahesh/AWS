@@ -1,3 +1,3 @@
 # AWS
 Internship in AWS Cloud Management
-###I haave learnt how the cloud system works
+### I have learnt how the cloud system works
